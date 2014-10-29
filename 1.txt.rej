@@ -1,0 +1,8 @@
+diff a/1.txt b/1.txt	(rejected hunks)
+@@ -0,0 +1,5 @@
++public class HelloWorld {
++  public static void main(String[] args) {
++    System.out.println("hello!");
++  }
++}
+\ No newline at end of file
